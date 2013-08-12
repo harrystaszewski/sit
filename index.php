@@ -1,7 +1,6 @@
-<!--
-To change this template, choose Tools | Templates
-and open the template in the editor.
--->
+<?php
+    require_once 'lib/lib.db.php';
+?>
 <!DOCTYPE html>
 <html>
     <head>
