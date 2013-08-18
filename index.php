@@ -1,5 +1,6 @@
 <?php
-    require_once 'lib/lib.db.php';
+    require_once 'lib/class.sitapp.php';
+    $sitapp = new SitApp();
 ?>
 <!DOCTYPE html>
 <html>
@@ -9,7 +10,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+        
         ?>
     </body>
 </html>
